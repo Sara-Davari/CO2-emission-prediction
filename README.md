@@ -16,7 +16,7 @@ How it works:
 4. Write a function to erase the noise
 5. Use seaborn library to determine the relationship of columns
 6. Split dataset into training and testing sets
-7. Training modek (Linear Regression)
+7. Training model (Linear Regression)
 8. Evaluate the model's accuracy
 
 Results: The model achieved a 84% accuracy on test data.
