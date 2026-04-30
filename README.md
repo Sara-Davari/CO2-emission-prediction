@@ -13,7 +13,7 @@ How it works:
 1. Upload the dataset
 2. View the dataset
 3. Check the dataset for noises
-4. Make a function to erase the noise
+4. Write a function to erase the noise
 5. Use seaborn library to determine the relationship of columns
 6. Split dataset into training and testing sets
 7. Training modek (Linear Regression)
