@@ -1,6 +1,6 @@
 # CO2-emission-prediction
 
-This project uses Logistic Regression to predict how much CO2 a car produces based on the car's information like engine size.
+This project uses Logistic Regression to predict how much CO2 a car produces based on information like the car's engine size.
 
 Input: Engine size, Cylander, Fuelcomb
 
