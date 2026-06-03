@@ -21,6 +21,8 @@ How it works:
 
 Results: The model achieved a 84% accuracy on test data.
 
-What I learned: How to use linear regression. How to erase out-of-range data from a dataset
+What I learned: 
+1.How to use linear regression. 
+2.How to erase out-of-range data from a dataset
 
 Future Imporovements: Use a larger dataset. Increase the model's accuracy by adding more columns.
