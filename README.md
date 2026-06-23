@@ -9,7 +9,6 @@ Model: Linear Regression
 Output: Out1 (How much CO2 the car produces)
 
 How it works:
-
 1. Upload the dataset
 2. View the dataset
 3. Check the dataset for noises
